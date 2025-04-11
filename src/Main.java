@@ -8,9 +8,6 @@ public class Main {
         System.out.println(window);
         window.draw();
 
-        Window window2 = new Window("window2", "w1", true, "blue", 4, 8, 3, 6);
-        System.out.println(window2);
-        window2.draw();
     }
 
 }
